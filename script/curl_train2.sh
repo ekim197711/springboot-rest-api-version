@@ -1,0 +1,1 @@
+curl "localhost:8080/api/2020/05/02/train"
